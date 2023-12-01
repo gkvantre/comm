@@ -1,0 +1,39 @@
+{
+    "_default": {
+        "1": {
+            "car_id": 98986155,
+            "man_id": 41,
+            "model_id": 1124,
+            "prod_year": 2010,
+            "price_usd": 6300
+        },
+        "2": {
+            "car_id": 98855783,
+            "man_id": 41,
+            "model_id": 1124,
+            "prod_year": 2010,
+            "price_usd": 5550
+        },
+        "3": {
+            "car_id": 97778942,
+            "man_id": 41,
+            "model_id": 1124,
+            "prod_year": 2010,
+            "price_usd": 6200
+        },
+        "4": {
+            "car_id": 99034327,
+            "man_id": 41,
+            "model_id": 1124,
+            "prod_year": 2010,
+            "price_usd": 4500
+        },
+        "5": {
+            "car_id": 98917719,
+            "man_id": 5,
+            "model_id": 1563,
+            "prod_year": 2013,
+            "price_usd": 4700
+        }
+    }
+}
